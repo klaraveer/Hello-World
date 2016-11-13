@@ -1,3 +1,3 @@
 # Hello-World
-Fascinating world, this GitHub.
-Love playing here!
+Fascinating world, GitHub.
+Love playing around here!
